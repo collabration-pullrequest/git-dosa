@@ -11,3 +11,9 @@ git cat-file <commit id sha code> -p  --> prints the file
 ```
 git checkout -b karam-dosa
 ```
+
+# Best way for git is
+```
+git checkout main
+git pull origin main
+```
